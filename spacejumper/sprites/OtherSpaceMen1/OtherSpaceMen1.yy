@@ -1,6 +1,6 @@
 {
   "$GMSprite":"",
-  "%Name":"Hero1",
+  "%Name":"OtherSpaceMen1",
   "bboxMode":0,
   "bbox_bottom":53,
   "bbox_left":0,
@@ -27,8 +27,27 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"d0177dec-80e8-42e3-bf97-f7ab86389d1a","blendMode":0,"displayName":"default","isLocked":false,"name":"d0177dec-80e8-42e3-bf97-f7ab86389d1a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Hero1",
-  "nineSlice":null,
+  "name":"OtherSpaceMen1",
+  "nineSlice":{
+    "$GMNineSliceData":"",
+    "bottom":0,
+    "enabled":false,
+    "guideColour":[4294902015,4294902015,4294902015,4294902015,],
+    "highlightColour":1728023040,
+    "highlightStyle":0,
+    "left":0,
+    "resourceType":"GMNineSliceData",
+    "resourceVersion":"2.0",
+    "right":0,
+    "tileMode":[
+      0,
+      0,
+      0,
+      0,
+      0,
+    ],
+    "top":0,
+  },
   "origin":0,
   "parent":{
     "name":"Sprites",
@@ -39,7 +58,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"Hero1",
+    "%Name":"OtherSpaceMen1",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -63,7 +82,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Hero1",
+    "name":"OtherSpaceMen1",
     "playback":1,
     "playbackSpeed":30.0,
     "playbackSpeedType":0,
@@ -75,25 +94,25 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"93d30a6d-42d8-4273-a966-646330dd0379","path":"sprites/Hero1/Hero1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"93d30a6d-42d8-4273-a966-646330dd0379","path":"sprites/OtherSpaceMen1/OtherSpaceMen1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"1e90652c-be55-461a-b62a-c4122590bcc3","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e1215607-84a3-4a66-843c-7b0330243411","path":"sprites/Hero1/Hero1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"e1215607-84a3-4a66-843c-7b0330243411","path":"sprites/OtherSpaceMen1/OtherSpaceMen1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"7cca0fe4-9143-4db0-8f1b-bf59f30ea116","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3f7efaf5-2f6e-4b27-983a-0c21b051b403","path":"sprites/Hero1/Hero1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3f7efaf5-2f6e-4b27-983a-0c21b051b403","path":"sprites/OtherSpaceMen1/OtherSpaceMen1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"86fa5865-d122-4e8e-8a88-87f99418c1a5","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"02a0e363-61e3-4ada-8fdc-456eab5b14d8","path":"sprites/Hero1/Hero1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"02a0e363-61e3-4ada-8fdc-456eab5b14d8","path":"sprites/OtherSpaceMen1/OtherSpaceMen1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"d01dd1bc-38ce-4bf6-be7b-2c34308feeca","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"97a4a2e7-bfe4-4b75-a78b-0a4f9abfd7d8","path":"sprites/Hero1/Hero1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"97a4a2e7-bfe4-4b75-a78b-0a4f9abfd7d8","path":"sprites/OtherSpaceMen1/OtherSpaceMen1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"678c3bee-dd51-41c9-a2ff-f113e7e39e9b","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4a4918f1-a7b4-4d8c-bed3-c737f4841cb6","path":"sprites/Hero1/Hero1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"4a4918f1-a7b4-4d8c-bed3-c737f4841cb6","path":"sprites/OtherSpaceMen1/OtherSpaceMen1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"54b25f4e-9220-4c31-b14c-30b18f8502db","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a91a706f-4cc0-4dba-a500-7e49868801fb","path":"sprites/Hero1/Hero1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a91a706f-4cc0-4dba-a500-7e49868801fb","path":"sprites/OtherSpaceMen1/OtherSpaceMen1.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"e74d1198-4844-4fb4-9cdf-aee91133ee01","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

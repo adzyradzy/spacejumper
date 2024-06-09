@@ -34,15 +34,16 @@
   },
   "name":"spacejumper",
   "resources":[
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
-    {"id":{"name":"Hero1","path":"sprites/Hero1/Hero1.yy",},},
+    {"id":{"name":"BasePlayer","path":"objects/BasePlayer/BasePlayer.yy",},},
+    {"id":{"name":"StartingRoom","path":"rooms/StartingRoom/StartingRoom.yy",},},
+    {"id":{"name":"oPlayer","path":"sprites/oPlayer/oPlayer.yy",},},
+    {"id":{"name":"OtherSpaceMen1","path":"sprites/OtherSpaceMen1/OtherSpaceMen1.yy",},},
+    {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"StartingRoom","path":"rooms/StartingRoom/StartingRoom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
