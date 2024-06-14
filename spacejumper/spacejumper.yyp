@@ -35,10 +35,12 @@
   "name":"spacejumper",
   "resources":[
     {"id":{"name":"oBasePlayer","path":"objects/oBasePlayer/oBasePlayer.yy",},},
+    {"id":{"name":"obj_o_ground","path":"objects/obj_o_ground/obj_o_ground.yy",},},
     {"id":{"name":"oFriendly_1","path":"objects/oFriendly_1/oFriendly_1.yy",},},
     {"id":{"name":"StartingRoom","path":"rooms/StartingRoom/StartingRoom.yy",},},
     {"id":{"name":"Mainplayer_1","path":"sprites/Mainplayer_1/Mainplayer_1.yy",},},
     {"id":{"name":"OtherSpaceMen1","path":"sprites/OtherSpaceMen1/OtherSpaceMen1.yy",},},
+    {"id":{"name":"sbgSkyNight","path":"sprites/sbgSkyNight/sbgSkyNight.yy",},},
     {"id":{"name":"tGround","path":"sprites/tGround/tGround.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
   ],
